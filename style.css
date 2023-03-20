@@ -1,0 +1,26 @@
+
+body {
+font-family:monospace;
+color: #d2deab;
+background-color:#121212;
+border-color:#d2738a;
+font-family:monospace;
+
+}
+
+a:link, a:visited, a:active{
+color:#d2deab;;
+text-decoration:none;
+font-family:monospace;
+}
+
+h4 {
+  color: #d2deab;
+  font-family:monospace;
+}
+
+b {
+        font-family:monospace;
+	color: #6B271E;
+}
+
